@@ -1,7 +1,7 @@
 name: PRIME
 favicon: null
-layout_spectrum: 0.43362044962123036
-typography_spectrum: 0.4343933444470167
+layout_spectrum: 0.2493
+typography_spectrum: 0.75343
 title: Prime Soluções para Recuperação de Ativos
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#828282'
+    - '#363636'
+    - '#b2b2b2'
+    - '#1a1a1a'
+    - '#eeeeee'
   brandStrength: 0.6783318517263979
   lightness: 0.23547468637116253
   saturation: 0.9988349985796958
