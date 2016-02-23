@@ -4,8 +4,15 @@
         <description><![CDATA[Prime Soluções para Recuperação de Ativos]]></description>
         <link>https://thegrid.ai/prime/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 13:58:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 13:59:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/prime/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Quem somos </p>]]></description>
+            <link>https://thegrid.ai/prime/4778de0f-9626-4e52-b523-571a369d7bc2/index.html</link>
+            <guid isPermaLink="false">4778de0f-9626-4e52-b523-571a369d7bc2</guid>
+            <pubDate>Tue, 23 Feb 2016 13:58:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Prime - Soluções para Recuperação de Ativos]]></title>
             <description><![CDATA[<article><h1>Prime - Soluções para Recuperação de Ativos</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13370e914ce96aa681bf634e09c4246c995ac802.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/prime/servicos-e-diferenciais/index.html</link>
             <guid isPermaLink="false">7d4c760c-eafe-489c-86be-1544330ee1a7</guid>
             <pubDate>Tue, 23 Feb 2016 13:53:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Quem somos </p>]]></description>
-            <link>https://thegrid.ai/prime/4778de0f-9626-4e52-b523-571a369d7bc2/index.html</link>
-            <guid isPermaLink="false">4778de0f-9626-4e52-b523-571a369d7bc2</guid>
-            <pubDate>Tue, 23 Feb 2016 13:51:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
