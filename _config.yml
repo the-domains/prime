@@ -1,0 +1,28 @@
+name: PRIME
+favicon: null
+layout_spectrum: 0.43362044962123036
+typography_spectrum: 0.4343933444470167
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6783318517263979
+  lightness: 0.23547468637116253
+  saturation: 0.9988349985796958
+  rhythmicContrast: 0.5962089609820396
+purpose: []
